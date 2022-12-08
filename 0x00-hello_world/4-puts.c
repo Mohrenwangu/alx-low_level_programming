@@ -1,7 +1,7 @@
-#!/bin/bash
+#include <stdio.h>
 /**
- * * main - main block
- * return: 0
+ * main - main block
+ * Return: o
  */
 int main(void)
 {
