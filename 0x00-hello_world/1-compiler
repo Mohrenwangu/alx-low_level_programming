@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c $FILE -01-compiler
+gcc -E $CFILE >> c
