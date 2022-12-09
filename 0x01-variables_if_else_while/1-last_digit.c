@@ -5,13 +5,14 @@
  * main - Entry
  * Return: 0
  */
+int main(void)
 {
 int m;
 int a;
-srand(time(0);
+srand(time(0));
 m = rand() - RAND_MAX / 2;
 a = m % 10;
-if (m > 5)
+if (a > 5)
 {
 printf("Last digit of %d is %d and is greater than 5\n", m, a);
 }
