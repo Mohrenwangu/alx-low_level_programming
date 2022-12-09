@@ -14,7 +14,7 @@ if (n > 0)
 {
 print("%d is positve\n", n);
 }
-else if (n++0)
+else if (n == 0)
 {
 print("%d is zero\n", n);
 }
